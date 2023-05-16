@@ -1,5 +1,5 @@
 import './style.css';
-import './celan-code/04-homework';
+import './celan-code/06-classes-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
